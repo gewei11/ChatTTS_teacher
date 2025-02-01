@@ -15,3 +15,6 @@ ChatTTS二次开发项目合集：https://github.com/libukai/Awesome-ChatTTS
 趋动云：https://growthdata.virtaicloud.com/t/RX
 
 公众号 趋动云 回复 子豪兄 跟客服说是子豪兄粉丝，领70元代金券，完成新手任务，再得230元代金券
+
+
+1
