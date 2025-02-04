@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+    "moduleResolution": "node"
+  },
+  "exclude": ["node_modules", "dist"]
+}

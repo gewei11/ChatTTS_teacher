@@ -1,0 +1,27 @@
+[
+    {
+        "name": "个性化语音",
+        "textContent": "800-2000文本内容",
+        "audioUrl": "声音地址链接"
+    },
+    {
+        "name": "标准语言输出",
+        "textContent": "800-2000文本内容",
+        "audioUrl": "声音地址链接",
+        "tone": "语气",
+        "speed": "语速",
+        "volume": "音量",
+        "rhythm": "节奏"
+    },
+    {
+        "name": "课件制作",
+        "coursewareUrl": "课件地址链接",
+        "audioUrl": "声音地址链接"
+    },
+    {
+        "name": "扩展功能",
+        "videoUrl": "音视频地址链接",
+        "audioUrl": "声音地址链接",
+        "subtitle": "字幕"
+    }
+]
